@@ -1,6 +1,6 @@
 # Hi there! I'm Guilherme Baeta 🖖
 
-### Java Developer | Back-End Specialist (in training)
+### Java Developer | Back-End 
 
 ---
 
